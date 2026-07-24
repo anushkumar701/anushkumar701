@@ -148,13 +148,7 @@ status:     "Open to opportunities"
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&hide_border=true&bg_color=00000000&title_color=2E9EF7&text_color=8b949e" width="49%" alt="Top Languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&hide_border=true&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=6DB33F&area=true&area_color=2E9EF7" width="49%" alt="Contribution Activity Graph"/>
 
-<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkumar701/anushkumar701/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkumar701/anushkumar701/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/anushkumar701/anushkumar701/output/github-snake.svg" width="98%" alt="Contribution Snake"/>
-</picture>
 
 </div>
 
