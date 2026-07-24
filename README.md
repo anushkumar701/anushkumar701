@@ -146,8 +146,15 @@ status:     "Open to opportunities"
 </picture>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&hide_border=true&bg_color=00000000&title_color=2E9EF7&text_color=8b949e" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&hide_border=true&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=6DB33F&area=true&area_color=2E9EF7" width="49%" alt="Contribution Activity Graph"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&hide_border=true&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=6DB33F&area=true&area_color=2E9EF7" width="98%" alt="Contribution Activity Graph"/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkumar701/anushkumar701/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkumar701/anushkumar701/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/anushkumar701/anushkumar701/output/github-snake.svg" width="98%" alt="Contribution Snake"/>
+</picture>
 
 </div>
 
@@ -160,7 +167,6 @@ status:     "Open to opportunities"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkumar701)
 
 <br/><br/>
 
