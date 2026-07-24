@@ -49,26 +49,8 @@ My current learning path involves transitioning from foundational Java and JDBC 
 
 ## GitHub Analytics
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anushkumar701&show_icons=true&theme=dark&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anushkumar701&show_icons=true&theme=light&hide_border=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anushkumar701&show_icons=true&theme=light&hide_border=true&count_private=true">
-  </picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&theme=light&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&theme=light&hide_border=true">
-  </picture>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkumar701&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&theme=transparent&hide_border=true)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&theme=github-dark&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&theme=github&hide_border=true&area=true">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&theme=github&hide_border=true&area=true">
-  </picture>
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&theme=github&hide_border=true&area=true)
