@@ -33,8 +33,6 @@ A platform designed for analyzing and visualizing mutual fund data to provide cl
 - **Tech Stack:** Java, MySQL, HTML, CSS, Servlets, JDBC
 - **Status:** Active Development
 
-*(More projects will be added here as they are developed.)*
-
 ---
 
 ## Learning in Public
