@@ -47,7 +47,7 @@ My current learning path involves transitioning from foundational Java and JDBC 
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=anushkumar701&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkumar701&theme=transparent&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&theme=transparent&hide_border=true)
 
