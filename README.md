@@ -146,7 +146,6 @@ status:     "Open to opportunities"
 </picture>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&hide_border=true&bg_color=00000000&title_color=2E9EF7&text_color=8b949e" width="49%" alt="Top Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=anushkumar701&theme=onedark&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="49%" alt="Trophies"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkumar701&hide_border=true&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=6DB33F&area=true&area_color=2E9EF7" width="98%" alt="Contribution Activity Graph"/>
 
