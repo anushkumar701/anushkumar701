@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anushkumar701&color=2E9EF7&style=flat-square&label=Profile+Views)](https://github.com/anushkumar701)
 [![GitHub followers](https://img.shields.io/github/followers/anushkumar701?label=Followers&style=flat-square&color=2E9EF7&logo=github&logoColor=white)](https://github.com/anushkumar701?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anush-kumar-k)
 
 </div>
 
@@ -159,7 +159,7 @@ status:     "Open to opportunities"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anush-kumar-k)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <br/><br/>
