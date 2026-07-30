@@ -140,9 +140,9 @@ status:     "Open to opportunities"
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anushkumar701&show_icons=true&hide_border=true&bg_color=00000000&title_color=2E9EF7&icon_color=6DB33F&text_color=24292f" width="49%" alt="GitHub Stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anushkumar701&hide_border=true&background=00000000&ring=2E9EF7&fire=6DB33F&currStreakLabel=2E9EF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=anushkumar701&hide_border=true&background=00000000&ring=2E9EF7&fire=6DB33F&currStreakLabel=2E9EF7&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a"/>
-  <img src="https://streak-stats.demolab.com/?user=anushkumar701&hide_border=true&background=00000000&ring=2E9EF7&fire=6DB33F&currStreakLabel=2E9EF7&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" width="49%" alt="GitHub Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight-theta.vercel.app/?user=anushkumar701&hide_border=true&background=00000000&ring=2E9EF7&fire=6DB33F&currStreakLabel=2E9EF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight-theta.vercel.app/?user=anushkumar701&hide_border=true&background=00000000&ring=2E9EF7&fire=6DB33F&currStreakLabel=2E9EF7&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a"/>
+  <img src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=anushkumar701&hide_border=true&background=00000000&ring=2E9EF7&fire=6DB33F&currStreakLabel=2E9EF7&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" width="49%" alt="GitHub Streak"/>
 </picture>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anushkumar701&layout=compact&hide_border=true&bg_color=00000000&title_color=2E9EF7&text_color=8b949e" width="49%" alt="Top Languages"/>
